@@ -1,0 +1,461 @@
+procurement_id,facility_id,supplier,drug_name,qty,unit_price,purchase_date,invoice_no,invoice_input_date,channel
+PO-0000180,RS-D,PT Farma Nusantara Sintetis,Metformin 500 mg Tablet,611,933,2026-08-01,INV-0000180,2026-08-01,e-Katalog
+PO-0000118,RS-C,PT Onko Prima Sintetis,Safil 2-0,12,90395,2026-07-30,INV-0000118,2026-07-30,e-Katalog
+PO-0000165,RS-D,PT Distribusi Medika Sintetis,IV Catheter 22G,6,14905,2026-08-29,INV-0000165,2026-08-29,e-Katalog
+PO-0000289,RS-G,PT Alkes Mandiri Sintetis,Glucotika,222,896,2026-08-01,INV-0000289,2026-08-01,e-Katalog
+PO-0000053,RS-B,PT Onko Prima Sintetis,Ceftriaxone 1 g Injeksi,51,38527,2026-07-30,INV-0000053,2026-07-30,e-Katalog
+PO-0000127,RS-C,PT Distribusi Medika Sintetis,Ringer Laktat Infus 500 mL,46,13877,2026-08-29,INV-0000127,2026-08-29,e-Katalog
+PO-0000115,RS-C,PT Farma Nusantara Sintetis,Albunate,3,2945398,2026-09-24,INV-0000115,2026-09-24,e-Katalog
+PO-0000345,RS-H,PT Alkes Mandiri Sintetis,Clopidogrel 75 mg Tablet,211,3019,2026-09-26,INV-0000345,2026-09-26,e-Katalog
+PO-0000427,RS-K,PT Distribusi Medika Sintetis,Otsu-RL,36,14013,2026-08-01,INV-0000427,2026-08-02,e-Katalog
+PO-0000352,RS-I,PT Distribusi Medika Sintetis,Levofloxacin 750 mg Infus 150 mL,22,196719,2026-07-31,INV-0000352,2026-08-01,e-Katalog
+PO-0000174,RS-D,PT Onko Prima Sintetis,paclitaxel inj,6,1734680,2026-08-29,INV-0000174,2026-08-29,e-Katalog
+PO-0000251,RS-F,PT Alkes Mandiri Sintetis,Cisplatin 50 mg Injeksi,8,415297,2026-08-28,INV-0000251,2026-08-28,e-Katalog
+PO-0000369,RS-I,PT Distribusi Medika Sintetis,Cisplatin 50 mg Injeksi,4,421352,2026-09-24,INV-0000369,2026-09-25,e-Katalog
+PO-0000229,RS-E,PT Onko Prima Sintetis,Metrix,239,1853,2026-07-30,INV-0000229,2026-07-30,e-Katalog
+PO-0000311,RS-H,PT Distribusi Medika Sintetis,Levofloxacin 75 mg Infus 150 mL,20,175188,2026-08-28,INV-0000311,2026-09-20,e-Katalog
+PO-0000459,RS-L,Distributor Lokal Sintetis,CLOPIDOGREL 75 MG TABLET,32,3149,2026-08-01,INV-0000459,2026-08-02,Non e-Katalog
+PO-0000201,RS-E,PT Alkes Mandiri Sintetis,Leflox,14,188133,2026-08-01,INV-0000201,2026-08-01,e-Katalog
+PO-0000306,RS-H,Distributor Lokal Sintetis,Ceftriaxone 1 g Injeksi,13,36264,2026-08-27,INV-0000306,2026-08-27,Non e-Katalog
+PO-0000413,RS-J,PT Farma Nusantara Sintetis,Candesartan 8 mg Tablet,278,4186,2026-08-27,INV-0000413,2026-08-27,e-Katalog
+PO-0000319,RS-H,PT Onko Prima Sintetis,"Natrium Klorida 0,9% Infus 500 mL",41,11895,2026-08-28,INV-0000319,2026-08-28,e-Katalog
+PO-0000326,RS-H,PT Farma Nusantara Sintetis,Carboplatin 450 mg Injeksi,4,1368765,2026-08-01,INV-0000326,2026-08-02,e-Katalog
+PO-0000341,RS-H,PT Onko Prima Sintetis,Blopress,147,4650,2026-08-29,INV-0000341,2026-08-29,e-Katalog
+PO-0000334,RS-H,Distributor Lokal Sintetis,Simvast,322,1097,2026-07-30,INV-0000334,2026-07-30,Non e-Katalog
+PO-0000264,RS-F,PT Alkes Mandiri Sintetis,glimepiride 2,128,1836,2026-09-25,INV-0000264,2026-09-25,e-Katalog
+PO-0000325,RS-H,PT Distribusi Medika Sintetis,Kemoplat,6,438238,2026-08-29,INV-0000325,2026-08-30,e-Katalog
+PO-0000136,RS-C,PT Farma Nusantara Sintetis,Norvask,350,1334,2026-08-01,INV-0000136,2026-08-02,e-Katalog
+PO-0000397,RS-J,PT Distribusi Medika Sintetis,NaCl 0.9%,11,12668,2026-08-28,INV-0000397,2026-08-29,e-Katalog
+PO-0000168,RS-D,PT Onko Prima Sintetis,NaCl 0.9%,112,11818,2026-07-30,INV-0000168,2026-07-30,e-Katalog
+PO-0000031,RS-A,PT Farma Nusantara Sintetis,Bevacizumab 100,9,3925407,2026-08-01,INV-0000031,2026-08-01,e-Katalog
+PO-0000212,RS-E,PT Distribusi Medika Sintetis,"Natrium Klorida 0,9% Infus 500 mL",35,11945,2026-07-30,INV-0000212,2026-07-30,e-Katalog
+PO-0000108,RS-C,PT Alkes Mandiri Sintetis,Meropenem Inj,15,320713,2026-07-30,INV-0000108,2026-07-30,e-Katalog
+PO-0000258,RS-F,PT Onko Prima Sintetis,amlodipine 10 mg tablet,510,1357,2026-08-27,INV-0000258,2026-08-27,e-Katalog
+PO-0000292,RS-G,Distributor Lokal Sintetis,Norvask,644,1394,2026-08-29,INV-0000292,2026-08-29,Non e-Katalog
+PO-0000399,RS-J,PT Farma Nusantara Sintetis,RL Infus,8,13799,2026-07-30,INV-0000399,2026-07-30,e-Katalog
+PO-0000106,RS-C,PT Distribusi Medika Sintetis,Ceftriaxone 1 g Injeksi,64,39233,2026-07-31,INV-0000106,2026-07-31,e-Katalog
+PO-0000131,RS-C,PT Alkes Mandiri Sintetis,Kemoplat,4,430999,2026-07-30,INV-0000131,2026-07-31,e-Katalog
+PO-0000150,RS-C,PT Distribusi Medika Sintetis,Clopidogrel 75 mg Tablet,31,3085,2026-09-24,INV-0000150,2026-09-25,e-Katalog
+PO-0000116,RS-C,PT Alkes Mandiri Sintetis,Albuminar-25,8,1643097,2026-07-30,INV-0000116,2026-07-30,e-Katalog
+PO-0000140,RS-C,PT Farma Nusantara Sintetis,Simvastatin 20 mg Tablet,613,1074,2026-08-27,INV-0000140,2026-08-27,e-Katalog
+PO-0000141,RS-C,PT Alkes Mandiri Sintetis,Zocor,126,1127,2026-09-24,INV-0000141,2026-09-25,e-Katalog
+PO-0000220,RS-E,PT Distribusi Medika Sintetis,Metformin HCl 500,461,870,2026-08-01,INV-0000220,2026-08-02,e-Katalog
+PO-0000318,RS-H,PT Alkes Mandiri Sintetis,NaCl 0.9%,12,12187,2026-07-30,INV-0000318,2026-07-31,e-Katalog
+PO-0000234,RS-E,PT Alkes Mandiri Sintetis,Blopress,90,4418,2026-09-25,INV-0000234,2026-10-01,e-Katalog
+PO-0000354,RS-I,PT Onko Prima Sintetis,Plasbumin-25,6,1608852,2026-07-30,INV-0000354,2026-07-30,e-Katalog
+PO-0000312,RS-H,PT Alkes Mandiri Sintetis,Levofloxacin 750 mg Infus 150 mL,3,193223,2026-09-25,INV-0000312,2026-09-25,e-Katalog
+PO-0000044,RS-A,PT Onko Prima Sintetis,Glimepiride 2 mg Tablet,498,1810,2026-08-01,INV-0000044,2026-08-01,e-Katalog
+PO-0000016,RS-A,Distributor Lokal Sintetis,Absorbable Suture 2-0,16,87756,2026-08-27,INV-0000016,2026-08-28,Non e-Katalog
+PO-0000230,RS-E,PT Alkes Mandiri Sintetis,Glimepiride 2,928,1791,2026-08-29,INV-0000230,2026-08-29,e-Katalog
+PO-0000260,RS-F,Distributor Lokal Sintetis,Simvastatin 20,271,1149,2026-08-28,INV-0000260,2026-08-29,Non e-Katalog
+PO-0000280,RS-G,PT Onko Prima Sintetis,IV Cath 22G,2,14538,2026-09-25,INV-0000280,2026-09-26,e-Katalog
+PO-0000360,RS-I,PT Distribusi Medika Sintetis,IV Catheter 22G,2,13793,2026-07-31,INV-0000360,2026-08-01,e-Katalog
+PO-0000133,RS-C,PT Distribusi Medika Sintetis,Metformin 500 mg Tablet,243,868,2026-07-30,INV-0000133,2026-07-30,e-Katalog
+PO-0000294,RS-G,PT Farma Nusantara Sintetis,Simvast,204,1036,2026-07-31,INV-0000294,2026-07-31,e-Katalog
+PO-0000046,RS-A,PT Farma Nusantara Sintetis,Metrix,33,1896,2026-09-24,INV-0000046,2026-09-25,e-Katalog
+PO-0000420,RS-K,PT Farma Nusantara Sintetis,CEFTRIAXONE 1 G INJEKSI,9,39100,2026-09-25,INV-0000420,2026-09-26,e-Katalog
+PO-0000313,RS-H,PT Alkes Mandiri Sintetis,Albuminar-25,11,1722402,2026-08-28,INV-0000313,2026-08-29,e-Katalog
+PO-0000057,RS-B,PT Farma Nusantara Sintetis,Merofen,108,317661,2026-08-27,INV-0000057,2026-08-28,e-Katalog
+PO-0000112,RS-C,Distributor Lokal Sintetis,Levofloxacin 750 mg Infus 150 mL,17,172648,2026-08-28,INV-0000112,2026-08-29,Non e-Katalog
+PO-0000421,RS-K,PT Distribusi Medika Sintetis,Benang Bedah Absorbable 2-0,10,80575,2026-07-30,INV-0000421,2026-07-31,e-Katalog
+PO-0000003,RS-A,PT Alkes Mandiri Sintetis,Ceftri 1g,8,38734,2026-09-26,INV-0000003,2026-09-26,e-Katalog
+PO-0000147,RS-C,PT Alkes Mandiri Sintetis,Candesartan 8 mg Tablet,47,4741,2026-09-24,INV-0000147,2026-09-25,e-Katalog
+PO-0000355,RS-I,PT Distribusi Medika Sintetis,Albumin 25% 50mL,4,1628388,2026-08-28,INV-0000355,2026-08-28,e-Katalog
+PO-0000442,RS-L,PT Alkes Mandiri Sintetis,Ceftri 1g,41,36590,2026-08-28,INV-0000442,2026-08-28,e-Katalog
+PO-0000242,RS-F,PT Onko Prima Sintetis,Levofloxacin 750 mg Infus 150 mL,24,192333,2026-07-30,INV-0000242,2026-08-06,e-Katalog
+PO-0000320,RS-H,PT Distribusi Medika Sintetis,NORMAL SALINE,7,13111,2026-09-24,INV-0000320,2026-09-24,e-Katalog
+PO-0000186,RS-D,PT Alkes Mandiri Sintetis,Simvastatin 20 mg Tablet,445,1153,2026-07-30,INV-0000186,2026-07-30,e-Katalog
+PO-0000040,RS-A,PT Distribusi Medika Sintetis,Amlodipine 10 mg Tablet,176,1357,2026-09-24,INV-0000040,2026-09-25,e-Katalog
+PO-0000378,RS-I,PT Alkes Mandiri Sintetis,Zocor,412,1074,2026-08-28,INV-0000378,2026-08-28,e-Katalog
+PO-0000029,RS-A,PT Distribusi Medika Sintetis,Herzuma,3,12509282,2026-08-01,INV-0000029,2026-08-01,e-Katalog
+PO-0000358,RS-I,PT Alkes Mandiri Sintetis,Safil 2-0,8,83339,2026-08-29,INV-0000358,2026-08-29,e-Katalog
+PO-0000377,RS-I,PT Distribusi Medika Sintetis,Simvast,248,1045,2026-07-31,INV-0000377,2026-07-31,e-Katalog
+PO-0000347,RS-I,PT Alkes Mandiri Sintetis,Terfacef,13,37834,2026-08-28,INV-0000347,2026-08-28,e-Katalog
+PO-0000327,RS-H,PT Farma Nusantara Sintetis,Carboplatin 450,2,1431265,2026-08-28,INV-0000327,2026-08-28,e-Katalog
+PO-0000120,RS-C,PT Farma Nusantara Sintetis,Introcan,8,13916,2026-07-31,INV-0000120,2026-08-01,e-Katalog
+PO-0000418,RS-K,PT Alkes Mandiri Sintetis,Ceftriaxone 1 g Injeksi,53,37000,2026-08-01,INV-0000418,2026-08-01,e-Katalog
+PO-0000052,RS-A,PT Farma Nusantara Sintetis,Clopidogrel 75,121,3134,2026-09-25,INV-0000052,2026-09-25,e-Katalog
+PO-0000198,RS-E,PT Onko Prima Sintetis,Terfacef,5,38915,2026-09-24,INV-0000198,2026-09-25,e-Katalog
+PO-0000265,RS-F,PT Onko Prima Sintetis,Blopress,242,4764,2026-08-01,INV-0000265,2026-08-01,e-Katalog
+PO-0000324,RS-H,PT Farma Nusantara Sintetis,Cisplatin 50 mg Injeksi,7,439670,2026-07-31,INV-0000324,2026-08-01,e-Katalog
+PO-0000209,RS-E,PT Distribusi Medika Sintetis,IV Cath 22G,6,14775,2026-09-26,INV-0000209,2026-09-26,e-Katalog
+PO-0000142,RS-C,PT Onko Prima Sintetis,Glimepiride 2 mg Tablet,275,1738,2026-07-31,INV-0000142,2026-07-31,e-Katalog
+PO-0000364,RS-I,PT Farma Nusantara Sintetis,Normal Saline,7,12882,2026-09-26,INV-0000364,2026-09-26,e-Katalog
+PO-0000068,RS-B,PT Farma Nusantara Sintetis,Safil 2-0,6,90319,2026-07-30,INV-0000068,2026-07-30,e-Katalog
+PO-0000162,RS-D,PT Onko Prima Sintetis,Benang Bedah Absorbable 2-0,14,87456,2026-07-31,INV-0000162,2026-08-01,e-Katalog
+PO-0000041,RS-A,PT Farma Nusantara Sintetis,Simvastatin 20 mg Tablet,681,1116,2026-07-30,INV-0000041,2026-07-30,e-Katalog
+PO-0000063,RS-B,PT Onko Prima Sintetis,Human Albumin 20% 100 mL,9,2813276,2026-08-29,INV-0000063,2026-08-29,e-Katalog
+PO-0000273,RS-G,PT Alkes Mandiri Sintetis,Meropenem 1 g Injeksi,35,288357,2026-07-31,INV-0000273,2026-08-01,e-Katalog
+PO-0000309,RS-H,PT Onko Prima Sintetis,Meropenem Inj,7,292770,2026-09-24,INV-0000309,2026-09-25,e-Katalog
+PO-0000440,RS-K,PT Distribusi Medika Sintetis,Cardogrel,252,3400,2026-08-27,INV-0000440,2026-08-28,e-Katalog
+PO-0000381,RS-I,PT Alkes Mandiri Sintetis,Metrix,379,1879,2026-08-29,INV-0000381,2026-08-29,e-Katalog
+PO-0000303,RS-G,PT Distribusi Medika Sintetis,Clopidogrel 75,495,3066,2026-08-27,INV-0000303,2026-08-27,e-Katalog
+PO-0000085,RS-B,PT Distribusi Medika Sintetis,Cisplatin 50mg,3,404507,2026-09-26,INV-0000085,2026-09-27,e-Katalog
+PO-0000454,RS-L,PT Onko Prima Sintetis,ZOCOR,297,1170,2026-08-28,INV-0000454,2026-09-02,e-Katalog
+PO-0000403,RS-J,PT Alkes Mandiri Sintetis,Metformin 500 mg Tablet,96,878,2026-09-24,INV-0000403,2026-09-25,e-Katalog
+PO-0000014,RS-A,PT Farma Nusantara Sintetis,Stent Koroner DES,4,9152497,2026-08-29,INV-0000014,2026-08-29,e-Katalog
+PO-0000103,RS-B,PT Distribusi Medika Sintetis,Clopidogrel 75 mg Tablet,434,3046,2026-07-30,INV-0000103,2026-07-31,e-Katalog
+PO-0000095,RS-B,PT Farma Nusantara Sintetis,Simvastatin 20,398,1120,2026-08-28,INV-0000095,2026-08-29,e-Katalog
+PO-0000373,RS-I,PT Onko Prima Sintetis,Metformin 500 mg Tablet,119,947,2026-09-26,INV-0000373,2026-09-26,e-Katalog
+PO-0000066,RS-B,PT Onko Prima Sintetis,albuminar-25,3,1559536,2026-09-24,INV-0000066,2026-09-25,e-Katalog
+PO-0000388,RS-J,PT Alkes Mandiri Sintetis,Ceftriaxone Inj,27,38779,2026-07-31,INV-0000388,2026-08-01,e-Katalog
+PO-0000121,RS-C,PT Onko Prima Sintetis,Introcan,17,14104,2026-08-28,INV-0000121,2026-08-28,e-Katalog
+PO-0000091,RS-B,PT Onko Prima Sintetis,Norvask,730,1347,2026-07-30,INV-0000091,2026-07-31,e-Katalog
+PO-0000078,RS-B,PT Distribusi Medika Sintetis,Ringer Laktat Infus 500 mL,60,12587,2026-07-31,INV-0000078,2026-08-01,e-Katalog
+PO-0000449,RS-L,PT Alkes Mandiri Sintetis,Metformin 500 mg Tablet,23,868,2026-07-30,INV-0000449,2026-07-30,e-Katalog
+PO-0000267,RS-F,PT Alkes Mandiri Sintetis,Candesartan 8 mg Tablet,61,4581,2026-09-26,INV-0000267,2026-09-26,e-Katalog
+PO-0000188,RS-D,Distributor Lokal Sintetis,Simvastatin 20 mg Tablet,181,1140,2026-09-25,INV-0000188,2026-09-25,Non e-Katalog
+PO-0000074,RS-B,PT Distribusi Medika Sintetis,Prolene Mesh,3,1236931,2026-08-28,INV-0000074,2026-09-10,e-Katalog
+PO-0000135,RS-C,PT Onko Prima Sintetis,Glucotika,94,907,2026-09-25,INV-0000135,2026-09-25,e-Katalog
+PO-0000154,RS-D,PT Farma Nusantara Sintetis,Merofen,54,299767,2026-07-31,INV-0000154,2026-08-01,e-Katalog
+PO-0000290,RS-G,PT Distribusi Medika Sintetis,Metformi n500 mg Tablet,565,951,2026-08-28,INV-0000290,2026-08-28,e-Katalog
+PO-0000261,RS-F,PT Alkes Mandiri Sintetis,Zocor,30,1157,2026-09-24,INV-0000261,2026-09-24,e-Katalog
+PO-0000376,RS-I,PT Onko Prima Sintetis,Amlodipine 10 mg Tablet,118,1451,2026-09-24,INV-0000376,2026-09-25,e-Katalog
+PO-0000221,RS-E,PT Onko Prima Sintetis,Metforin 500 mg Tablet,612,960,2026-08-27,INV-0000221,2026-08-28,e-Katalog
+PO-0000231,RS-E,PT Farma Nusantara Sintetis,AMARYL,146,1836,2026-09-25,INV-0000231,2026-09-26,e-Katalog
+PO-0000087,RS-B,PT Distribusi Medika Sintetis,Carbosin,3,1376295,2026-09-24,INV-0000087,2026-09-25,e-Katalog
+PO-0000129,RS-C,PT Farma Nusantara Sintetis,Docefrez,6,2148684,2026-07-30,INV-0000129,2026-07-30,e-Katalog
+PO-0000425,RS-K,PT Farma Nusantara Sintetis,Otsu-NS,4,12576,2026-08-27,INV-0000425,2026-08-27,e-Katalog
+PO-0000090,RS-B,PT Onko Prima Sintetis,Glucophage,241,948,2026-09-25,INV-0000090,2026-09-26,e-Katalog
+PO-0000255,RS-F,PT Alkes Mandiri Sintetis,Glucophage,287,884,2026-08-28,INV-0000255,2026-08-28,e-Katalog
+PO-0000023,RS-A,PT Distribusi Medika Sintetis,"Natrium Klorida 0,9% Infus 500 mL",56,12208,2026-08-01,INV-0000023,2026-08-02,e-Katalog
+PO-0000259,RS-F,PT Distribusi Medika Sintetis,Simvastatin 20,178,1061,2026-07-30,INV-0000259,2026-07-31,e-Katalog
+PO-0000415,RS-J,PT Distribusi Medika Sintetis,Plavix,32,3405,2026-08-01,INV-0000415,2026-08-01,e-Katalog
+PO-0000348,RS-I,PT Distribusi Medika Sintetis,ceftriaxone inj,14,40310,2026-09-26,INV-0000348,2026-09-27,e-Katalog
+PO-0000245,RS-F,PT Distribusi Medika Sintetis,Vicryl 2-0,6,86330,2026-08-27,INV-0000245,2026-08-28,e-Katalog
+PO-0000254,RS-F,PT Farma Nusantara Sintetis,Metformin 500 mg Tablet,227,909,2026-08-01,INV-0000254,2026-08-01,e-Katalog
+PO-0000026,RS-A,PT Onko Prima Sintetis,Ringer Laktat Infus 500 mL,37,13473,2026-08-29,INV-0000026,2026-08-29,e-Katalog
+PO-0000100,RS-B,PT Onko Prima Sintetis,Candesartan 8 mg Tablet,323,4803,2026-07-30,INV-0000100,2026-07-31,e-Katalog
+PO-0000082,RS-B,Distributor Lokal Sintetis,docetaxel 80 mg injeksi,3,2397142,2026-07-31,INV-0000082,2026-07-31,Non e-Katalog
+PO-0000048,RS-A,PT Alkes Mandiri Sintetis,CANDESARTAN 8 MG TABLET,819,4228,2026-08-27,INV-0000048,2026-08-27,e-Katalog
+PO-0000350,RS-I,PT Onko Prima Sintetis,Meropenem 1 g Injeksi,22,321127,2026-08-27,INV-0000350,2026-08-27,e-Katalog
+PO-0000182,RS-D,PT Farma Nusantara Sintetis,GLUCOTIKA,120,954,2026-09-24,INV-0000182,2026-09-24,e-Katalog
+PO-0000038,RS-A,PT Farma Nusantara Sintetis,Amlodipine 10 mg Tablet,508,1382,2026-07-31,INV-0000038,2026-07-31,e-Katalog
+PO-0000269,RS-F,Distributor Lokal Sintetis,Cardogrel,701,3063,2026-08-28,INV-0000269,2026-08-29,Non e-Katalog
+PO-0000161,RS-D,PT Onko Prima Sintetis,PLASBUMIN-25,4,1553940,2026-08-29,INV-0000161,2026-08-29,e-Katalog
+PO-0000322,RS-H,PT Onko Prima Sintetis,Ringer Lactate,74,13523,2026-08-28,INV-0000322,2026-08-28,e-Katalog
+PO-0000279,RS-G,PT Farma Nusantara Sintetis,IV Catheter 22G,9,13665,2026-08-01,INV-0000279,2026-08-02,e-Katalog
+PO-0000059,RS-B,PT Onko Prima Sintetis,Levofloxacin 750 mg Infus 150 mL,22,186426,2026-08-01,INV-0000059,2026-08-02,e-Katalog
+PO-0000144,RS-C,PT Farma Nusantara Sintetis,Glimepiride 2,213,1678,2026-09-24,INV-0000144,2026-09-24,e-Katalog
+PO-0000333,RS-H,PT Onko Prima Sintetis,Amlodipine 10 mg Tablet,91,1313,2026-09-26,INV-0000333,2026-09-27,e-Katalog
+PO-0000079,RS-B,PT Onko Prima Sintetis,Ringer Lactate,95,13053,2026-08-28,INV-0000079,2026-08-29,e-Katalog
+PO-0000119,RS-C,PT Onko Prima Sintetis,Benang Bedah Absorbable 2-0,8,86515,2026-08-29,INV-0000119,2026-08-29,e-Katalog
+PO-0000050,RS-A,PT Farma Nusantara Sintetis,Clopidogrel 75 mg Tablet,553,3311,2026-08-01,INV-0000050,2026-08-02,e-Katalog
+PO-0000227,RS-E,Distributor Lokal Sintetis,Simvastatin 20 mg Tablet,525,1129,2026-08-27,INV-0000227,2026-08-27,Non e-Katalog
+PO-0000086,RS-B,PT Distribusi Medika Sintetis,Carboplatin 450,5,1320381,2026-07-31,INV-0000086,2026-08-01,e-Katalog
+PO-0000252,RS-F,PT Farma Nusantara Sintetis,Carbosin,4,1390858,2026-08-01,INV-0000252,2026-08-01,e-Katalog
+PO-0000155,RS-D,PT Onko Prima Sintetis,merofen,45,322831,2026-08-28,INV-0000155,2026-09-07,e-Katalog
+PO-0000213,RS-E,PT Distribusi Medika Sintetis,"Natrium Klorida 0,9% Infus 500 mL",28,12933,2026-08-29,INV-0000213,2026-08-30,e-Katalog
+PO-0000382,RS-I,PT Distribusi Medika Sintetis,Blopress,357,4499,2026-07-30,INV-0000382,2026-07-31,e-Katalog
+PO-0000343,RS-H,PT Alkes Mandiri Sintetis,Clopidogrel 75,122,3185,2026-07-30,INV-0000343,2026-07-31,e-Katalog
+PO-0000253,RS-F,PT Farma Nusantara Sintetis,PARAPLATIN,3,1317696,2026-08-27,INV-0000253,2026-08-28,e-Katalog
+PO-0000423,RS-K,PT Alkes Mandiri Sintetis,IV Catheter 22G,5,13353,2026-08-29,INV-0000423,2026-08-29,e-Katalog
+PO-0000002,RS-A,PT Farma Nusantara Sintetis,Ceftriaxone 1 g Injeksi,43,36462,2026-08-27,INV-0000002,2026-08-28,e-Katalog
+PO-0000042,RS-A,PT Farma Nusantara Sintetis,Zocor,1090,1029,2026-08-27,INV-0000042,2026-08-28,e-Katalog
+PO-0000301,RS-G,PT Distribusi Medika Sintetis,Candesartan 8 mg Tablet,63,4371,2026-09-24,INV-0000301,2026-09-24,e-Katalog
+PO-0000067,RS-B,PT Farma Nusantara Sintetis,Resolute,2,9744665,2026-08-29,INV-0000067,2026-08-30,e-Katalog
+PO-0000293,RS-G,PT Alkes Mandiri Sintetis,Amlodipine 10 mg Tablet,94,1454,2026-09-25,INV-0000293,2026-09-26,e-Katalog
+PO-0000344,RS-H,PT Alkes Mandiri Sintetis,Clopidogrel 75 mg Tablet,369,3407,2026-08-28,INV-0000344,2026-08-29,e-Katalog
+PO-0000060,RS-B,PT Farma Nusantara Sintetis,Levofloxacin 750 mg Infus 150 mL,18,181354,2026-08-27,INV-0000060,2026-08-27,e-Katalog
+PO-0000092,RS-B,PT Farma Nusantara Sintetis,Amlodipine 10 mg Tablet,1335,1433,2026-08-28,INV-0000092,2026-08-28,e-Katalog
+PO-0000077,RS-B,PT Distribusi Medika Sintetis,Normal Saline,15,12407,2026-09-25,INV-0000077,2026-09-26,e-Katalog
+PO-0000156,RS-D,PT Alkes Mandiri Sintetis,Merem,13,313703,2026-09-26,INV-0000156,2026-09-26,e-Katalog
+PO-0000010,RS-A,Distributor Lokal Sintetis,Human Albumin 20% 100 mL,9,2703456,2026-08-28,INV-0000010,2026-08-28,Non e-Katalog
+PO-0000434,RS-K,PT Onko Prima Sintetis,Simvast,191,1028,2026-08-29,INV-0000434,2026-08-30,e-Katalog
+PO-0000111,RS-C,PT Farma Nusantara Sintetis,Levofloxacin 750 mg Infus 150 mL,7,173865,2026-07-31,INV-0000111,2026-07-31,e-Katalog
+PO-0000225,RS-E,PT Alkes Mandiri Sintetis,Amlodipine 10 mg Tablet,95,1445,2026-09-24,INV-0000225,2026-09-24,e-Katalog
+PO-0000435,RS-K,Distributor Lokal Sintetis,Simvast,93,1040,2026-09-24,INV-0000435,2026-09-25,Non e-Katalog
+PO-0000246,RS-F,Distributor Lokal Sintetis,Terumo IV Cath,13,14602,2026-08-27,INV-0000246,2026-08-27,Non e-Katalog
+PO-0000005,RS-A,PT Alkes Mandiri Sintetis,Meropenem 1 g Injeksi,56,315247,2026-08-28,INV-0000005,2026-08-29,e-Katalog
+PO-0000332,RS-H,PT Onko Prima Sintetis,NORVASK,257,1317,2026-08-27,INV-0000332,2026-08-27,e-Katalog
+PO-0000151,RS-D,PT Farma Nusantara Sintetis,Terfacef,28,39148,2026-07-31,INV-0000151,2026-08-01,e-Katalog
+PO-0000011,RS-A,PT Alkes Mandiri Sintetis,Human Albumin 25% 50 mL,3,1598565,2026-07-31,INV-0000011,2026-08-01,e-Katalog
+PO-0000447,RS-L,PT Onko Prima Sintetis,Ringer Laktat Infus 500 mL,14,13922,2026-07-30,INV-0000447,2026-07-31,e-Katalog
+PO-0000372,RS-I,PT Onko Prima Sintetis,Gluoctika,469,894,2026-08-29,INV-0000372,2026-08-30,e-Katalog
+PO-0000314,RS-H,Distributor Lokal Sintetis,Absorbable Suture 2-0,4,85012,2026-08-01,INV-0000314,2026-08-01,Non e-Katalog
+PO-0000233,RS-E,PT Alkes Mandiri Sintetis,Candesartan 8mg,328,4664,2026-08-28,INV-0000233,2026-09-24,e-Katalog
+PO-0000083,RS-B,PT Alkes Mandiri Sintetis,Docetaxel 80 mg Injeksi,4,2206909,2026-08-29,INV-0000083,2026-08-30,e-Katalog
+PO-0000419,RS-K,PT Onko Prima Sintetis,Ceftriaxone 1 g Injeksi,50,37496,2026-08-29,INV-0000419,2026-08-30,e-Katalog
+PO-0000281,RS-G,PT Alkes Mandiri Sintetis,NaCl 0.9%,23,13275,2026-08-01,INV-0000281,2026-08-02,e-Katalog
+PO-0000298,RS-G,PT Onko Prima Sintetis,Metrix,368,1898,2026-08-29,INV-0000298,2026-08-29,e-Katalog
+PO-0000179,RS-D,PT Onko Prima Sintetis,Carbosin,6,1312234,2026-08-01,INV-0000179,2026-08-03,e-Katalog
+PO-0000171,RS-D,Distributor Lokal Sintetis,Otsu-RL,36,13120,2026-07-30,INV-0000171,2026-07-30,Non e-Katalog
+PO-0000285,RS-G,PT Distribusi Medika Sintetis,RL INFUS,59,13714,2026-08-29,INV-0000285,2026-08-29,e-Katalog
+PO-0000159,RS-D,PT Onko Prima Sintetis,Levofloxacin Infus,4,193403,2026-09-24,INV-0000159,2026-09-25,e-Katalog
+PO-0000356,RS-I,PT Alkes Mandiri Sintetis,Human Albumin 25% 50 mL,3,1619063,2026-09-26,INV-0000356,2026-09-26,e-Katalog
+PO-0000361,RS-I,PT Onko Prima Sintetis,TERUMO IV CATH,3,13900,2026-09-26,INV-0000361,2026-09-26,e-Katalog
+PO-0000152,RS-D,PT Alkes Mandiri Sintetis,Ceftriaxone 1 g Injeksi,28,39773,2026-08-27,INV-0000152,2026-08-27,e-Katalog
+PO-0000113,RS-C,PT Distribusi Medika Sintetis,Cravit Infus,5,174943,2026-09-25,INV-0000113,2026-09-26,e-Katalog
+PO-0000217,RS-E,PT Farma Nusantara Sintetis,Cisplatin 50 mg Injeksi,5,435798,2026-08-01,INV-0000217,2026-08-01,e-Katalog
+PO-0000058,RS-B,PT Alkes Mandiri Sintetis,Meropenem 1 g Injeksi,33,319190,2026-09-26,INV-0000058,2026-09-27,e-Katalog
+PO-0000076,RS-B,PT Farma Nusantara Sintetis,"Natrium Klorida 0,9% Infus 500 mL",68,12660,2026-08-27,INV-0000076,2026-08-28,e-Katalog
+PO-0000065,RS-B,PT Distribusi Medika Sintetis,Albuminar-25,7,1559340,2026-08-29,INV-0000065,2026-09-25,e-Katalog
+PO-0000407,RS-J,PT Farma Nusantara Sintetis,Simvast,162,1084,2026-08-29,INV-0000407,2026-08-30,e-Katalog
+PO-0000438,RS-K,PT Farma Nusantara Sintetis,DECAPRES,171,4316,2026-08-29,INV-0000438,2026-08-30,e-Katalog
+PO-0000278,RS-G,Distributor Lokal Sintetis,Benang Bedah Absorbable 2-0,6,85033,2026-07-30,INV-0000278,2026-07-31,Non e-Katalog
+PO-0000097,RS-B,PT Alkes Mandiri Sintetis,Metrix,508,1817,2026-07-30,INV-0000097,2026-07-31,e-Katalog
+PO-0000351,RS-I,PT Farma Nusantara Sintetis,Meropenem 1 g Injeksi,9,318033,2026-09-24,INV-0000351,2026-09-24,e-Katalog
+PO-0000283,RS-G,PT Distribusi Medika Sintetis,Normal Saline,10,12827,2026-09-25,INV-0000283,2026-09-25,e-Katalog
+PO-0000024,RS-A,PT Distribusi Medika Sintetis,normal saline,106,11681,2026-08-27,INV-0000024,2026-08-27,e-Katalog
+PO-0000305,RS-H,PT Farma Nusantara Sintetis,CEFTRIAXONE INJ,21,36906,2026-08-01,INV-0000305,2026-08-02,e-Katalog
+PO-0000036,RS-A,PT Alkes Mandiri Sintetis,Glucophage,642,926,2026-08-29,INV-0000036,2026-09-09,e-Katalog
+PO-0000028,RS-A,PT Alkes Mandiri Sintetis,Taxol,7,1976870,2026-08-27,INV-0000028,2026-08-28,e-Katalog
+PO-0000008,RS-A,PT Distribusi Medika Sintetis,Levofloxacin 750 mg Infus 150 mL,20,195878,2026-08-29,INV-0000008,2026-08-30,e-Katalog
+PO-0000396,RS-J,PT Distribusi Medika Sintetis,"Natrium Klorida 0,9% Infus 500 mL",13,11979,2026-07-30,INV-0000396,2026-07-30,e-Katalog
+PO-0000349,RS-I,PT Distribusi Medika Sintetis,Meropenem Inj,12,291115,2026-08-01,INV-0000349,2026-08-01,e-Katalog
+PO-0000272,RS-G,PT Alkes Mandiri Sintetis,Ceftriaxone Inj,33,39245,2026-09-26,INV-0000272,2026-09-26,e-Katalog
+PO-0000004,RS-A,Distributor Lokal Sintetis,Merofen,45,325947,2026-07-31,INV-0000004,2026-08-01,Non e-Katalog
+PO-0000098,RS-B,PT Onko Prima Sintetis,Metrix,661,1690,2026-08-29,INV-0000098,2026-08-30,e-Katalog
+PO-0000257,RS-F,PT Distribusi Medika Sintetis,Amlodipine 10 mg Tablet,347,1479,2026-08-01,INV-0000257,2026-08-01,e-Katalog
+PO-0000167,RS-D,PT Distribusi Medika Sintetis,Parietex,2,1130219,2026-09-26,INV-0000167,2026-09-26,e-Katalog
+PO-0000200,RS-E,PT Onko Prima Sintetis,Merofen,41,298163,2026-08-29,INV-0000200,2026-08-30,e-Katalog
+PO-0000284,RS-G,PT Farma Nusantara Sintetis,Otsu-RL,25,13243,2026-07-31,INV-0000284,2026-08-02,e-Katalog
+PO-0000126,RS-C,PT Farma Nusantara Sintetis,RL Infus,45,13577,2026-07-30,INV-0000126,2026-07-31,e-Katalog
+PO-0000204,RS-E,PT Distribusi Medika Sintetis,Albuminar-25,3,1613718,2026-08-01,INV-0000204,2026-08-01,e-Katalog
+PO-0000432,RS-K,PT Onko Prima Sintetis,Tensivask,95,1319,2026-08-28,INV-0000432,2026-09-23,e-Katalog
+PO-0000166,RS-D,PT Distribusi Medika Sintetis,Prolene Mesh,3,1116508,2026-08-27,INV-0000166,2026-08-27,e-Katalog
+PO-0000239,RS-F,PT Farma Nusantara Sintetis,Ceftri 1g,9,38367,2026-08-29,INV-0000239,2026-08-30,e-Katalog
+PO-0000051,RS-A,PT Onko Prima Sintetis,Clopidogrel 75,803,3342,2026-08-28,INV-0000051,2026-09-07,e-Katalog
+PO-0000310,RS-H,PT Alkes Mandiri Sintetis,Levofloxacin Infus,6,189172,2026-07-30,INV-0000310,2026-07-31,e-Katalog
+PO-0000400,RS-J,PT Farma Nusantara Sintetis,Ringer Laktat Infus 500 mL,16,12571,2026-08-28,INV-0000400,2026-08-28,e-Katalog
+PO-0000291,RS-G,PT Distribusi Medika Sintetis,amlodipine besylate,327,1333,2026-08-01,INV-0000291,2026-08-02,e-Katalog
+PO-0000444,RS-L,PT Farma Nusantara Sintetis,Terumo IV Cath,3,13164,2026-08-28,INV-0000444,2026-08-28,e-Katalog
+PO-0000226,RS-E,PT Onko Prima Sintetis,SIMVASTATIN 20 MG TABLET,465,1161,2026-08-01,INV-0000226,2026-08-01,e-Katalog
+PO-0000262,RS-F,PT Onko Prima Sintetis,Glimepiride 2,427,1793,2026-07-31,INV-0000262,2026-07-31,e-Katalog
+PO-0000027,RS-A,PT Alkes Mandiri Sintetis,Otsu-RL,8,13481,2026-09-25,INV-0000027,2026-09-26,e-Katalog
+PO-0000401,RS-J,PT Alkes Mandiri Sintetis,Metformin HCl 500,171,864,2026-08-01,INV-0000401,2026-08-02,e-Katalog
+PO-0000035,RS-A,Distributor Lokal Sintetis,Metformin HCl 500,278,877,2026-07-31,INV-0000035,2026-07-31,Non e-Katalog
+PO-0000457,RS-L,PT Distribusi Medika Sintetis,Candesartan 8mg,122,4531,2026-07-30,INV-0000457,2026-07-31,e-Katalog
+PO-0000183,RS-D,PT Alkes Mandiri Sintetis,Amlodipine Besylate,558,1459,2026-07-31,INV-0000183,2026-08-01,e-Katalog
+PO-0000055,RS-B,PT Distribusi Medika Sintetis,ceftri 1g,3,39943,2026-09-26,INV-0000055,2026-09-27,e-Katalog
+PO-0000172,RS-D,PT Farma Nusantara Sintetis,RL INFUS,42,13951,2026-08-27,INV-0000172,2026-08-28,e-Katalog
+PO-0000275,RS-G,PT Distribusi Medika Sintetis,Leflox,11,183480,2026-08-27,INV-0000275,2026-08-27,e-Katalog
+PO-0000124,RS-C,PT Distribusi Medika Sintetis,NaCl 0.9%,86,12542,2026-08-28,INV-0000124,2026-08-28,e-Katalog
+PO-0000338,RS-H,PT Alkes Mandiri Sintetis,Metrix,443,1699,2026-08-29,INV-0000338,2026-09-02,e-Katalog
+PO-0000022,RS-A,PT Onko Prima Sintetis,Mesh Hernia 15x15 cm,3,1149100,2026-08-29,INV-0000022,2026-08-29,e-Katalog
+PO-0000307,RS-H,PT Distribusi Medika Sintetis,Ceftriaxone 1 g Injeksi,8,38275,2026-09-25,INV-0000307,2026-10-25,e-Katalog
+PO-0000408,RS-J,PT Farma Nusantara Sintetis,Simvastatin 20,30,1153,2026-09-25,INV-0000408,2026-09-25,e-Katalog
+PO-0000455,RS-L,PT Distribusi Medika Sintetis,Glimepiride 2 mg Tablet,116,1859,2026-07-30,INV-0000455,2026-07-30,e-Katalog
+PO-0000295,RS-G,Distributor Lokal Sintetis,Simvast,575,1132,2026-08-28,INV-0000295,2026-08-29,Non e-Katalog
+PO-0000296,RS-G,PT Onko Prima Sintetis,Simvastatin 20,101,1062,2026-09-25,INV-0000296,2026-09-26,e-Katalog
+PO-0000187,RS-D,PT Farma Nusantara Sintetis,Simvastatin 20,587,1108,2026-08-27,INV-0000187,2026-08-27,e-Katalog
+PO-0000393,RS-J,PT Onko Prima Sintetis,BENANG BEDAH ABSORBABLE 2-0,5,82657,2026-09-24,INV-0000393,2026-09-25,e-Katalog
+PO-0000321,RS-H,PT Alkes Mandiri Sintetis,RL Infus,17,12574,2026-07-31,INV-0000321,2026-08-01,e-Katalog
+PO-0000431,RS-K,PT Distribusi Medika Sintetis,Glucophage,68,936,2026-09-25,INV-0000431,2026-09-25,e-Katalog
+PO-0000148,RS-C,PT Alkes Mandiri Sintetis,Clopidogrel 75 mg Tablet,231,3134,2026-08-01,INV-0000148,2026-08-01,e-Katalog
+PO-0000169,RS-D,PT Farma Nusantara Sintetis,Otsu-NS,66,13148,2026-08-29,INV-0000169,2026-08-30,e-Katalog
+PO-0000089,RS-B,PT Farma Nusantara Sintetis,Metformin 500 mg Tablet,497,935,2026-08-27,INV-0000089,2026-08-28,e-Katalog
+PO-0000458,RS-L,Distributor Lokal Sintetis,Candesartan 8mg,236,4192,2026-08-27,INV-0000458,2026-08-28,Non e-Katalog
+PO-0000416,RS-J,Distributor Lokal Sintetis,Clopidogrel 75 mg Tablet,64,3069,2026-08-29,INV-0000416,2026-09-23,Non e-Katalog
+PO-0000256,RS-F,PT Distribusi Medika Sintetis,Metformin HCl 500,65,838,2026-09-26,INV-0000256,2026-09-27,e-Katalog
+PO-0000391,RS-J,PT Farma Nusantara Sintetis,Benang Bedah Absorbable 2-0,2,79820,2026-08-01,INV-0000391,2026-08-01,e-Katalog
+PO-0000101,RS-B,PT Farma Nusantara Sintetis,Blopress,784,4591,2026-08-27,INV-0000101,2026-08-28,e-Katalog
+PO-0000412,RS-J,PT Farma Nusantara Sintetis,Decapres,164,4769,2026-08-01,INV-0000412,2026-08-02,e-Katalog
+PO-0000375,RS-I,PT Distribusi Medika Sintetis,Tensivask,242,1371,2026-08-29,INV-0000375,2026-08-30,e-Katalog
+PO-0000232,RS-E,PT Distribusi Medika Sintetis,Candesartan 8 mg Tablet,159,4210,2026-08-01,INV-0000232,2026-08-01,e-Katalog
+PO-0000195,RS-D,PT Alkes Mandiri Sintetis,Clopidogrel 75,592,3140,2026-08-28,INV-0000195,2026-08-28,e-Katalog
+PO-0000366,RS-I,PT Farma Nusantara Sintetis,Ringer Laktat Infus 500 mL,39,13128,2026-08-27,INV-0000366,2026-08-27,e-Katalog
+PO-0000064,RS-B,PT Alkes Mandiri Sintetis,Albumin 25% 50mL,4,1606840,2026-07-30,INV-0000064,2026-07-31,e-Katalog
+PO-0000056,RS-B,PT Farma Nusantara Sintetis,MEROFEN,37,324599,2026-07-30,INV-0000056,2026-07-30,e-Katalog
+PO-0000069,RS-B,PT Onko Prima Sintetis,Safil 2-0,7,87492,2026-08-28,INV-0000069,2026-08-28,e-Katalog
+PO-0000202,RS-E,PT Onko Prima Sintetis,LEVOFLOXACIN INFUS,5,187604,2026-08-28,INV-0000202,2026-08-29,e-Katalog
+PO-0000315,RS-H,PT Farma Nusantara Sintetis,Benang Bedah Absorbable 2-0,10,82202,2026-08-29,INV-0000315,2026-08-30,e-Katalog
+PO-0000196,RS-E,PT Alkes Mandiri Sintetis,terfacef,27,35726,2026-08-01,INV-0000196,2026-08-01,e-Katalog
+PO-0000037,RS-A,PT Alkes Mandiri Sintetis,Metformin 500 mg Tablet,199,860,2026-09-25,INV-0000037,2026-09-26,e-Katalog
+PO-0000104,RS-B,PT Distribusi Medika Sintetis,Plavix,768,3167,2026-08-29,INV-0000104,2026-08-29,e-Katalog
+PO-0000228,RS-E,PT Alkes Mandiri Sintetis,Zocor,33,1158,2026-09-25,INV-0000228,2026-09-25,e-Katalog
+PO-0000238,RS-F,PT Alkes Mandiri Sintetis,CEFTRI 1G,59,37863,2026-07-31,INV-0000238,2026-08-12,e-Katalog
+PO-0000445,RS-L,Distributor Lokal Sintetis,IV Catheter 22G,3,13774,2026-09-24,INV-0000445,2026-09-25,Non e-Katalog
+PO-0000223,RS-E,PT Onko Prima Sintetis,Amlodipine 10 mg Tablet,327,1465,2026-07-30,INV-0000223,2026-07-30,e-Katalog
+PO-0000371,RS-I,PT Farma Nusantara Sintetis,Metformin 500 mg Tablet,330,940,2026-07-30,INV-0000371,2026-07-30,e-Katalog
+PO-0000110,RS-C,PT Distribusi Medika Sintetis,MEROPENEM 1 G INJEKSI,12,324426,2026-09-26,INV-0000110,2026-09-26,e-Katalog
+PO-0000107,RS-C,PT Alkes Mandiri Sintetis,Ceftri 1g,63,36247,2026-08-28,INV-0000107,2026-08-29,e-Katalog
+PO-0000248,RS-F,PT Distribusi Medika Sintetis,"Natrium Klorida 0,9% Infus 500 mL",70,12863,2026-08-29,INV-0000248,2026-09-03,e-Katalog
+PO-0000025,RS-A,Distributor Lokal Sintetis,RINGER LAKTAT INFUS 500 ML,78,14067,2026-07-31,INV-0000025,2026-08-01,Non e-Katalog
+PO-0000138,RS-C,PT Farma Nusantara Sintetis,Tensivask,258,1333,2026-09-26,INV-0000138,2026-09-26,e-Katalog
+PO-0000006,RS-A,PT Farma Nusantara Sintetis,Meropenem 1 g Injeksi,13,305478,2026-09-24,INV-0000006,2026-09-24,e-Katalog
+PO-0000299,RS-G,PT Onko Prima Sintetis,Candesartan 8mg,249,4414,2026-07-30,INV-0000299,2026-07-31,e-Katalog
+PO-0000357,RS-I,Distributor Lokal Sintetis,Vicryl 2-0,13,90651,2026-07-30,INV-0000357,2026-07-30,Non e-Katalog
+PO-0000274,RS-G,PT Distribusi Medika Sintetis,Meropenem Inj,63,319719,2026-08-27,INV-0000274,2026-08-27,e-Katalog
+PO-0000009,RS-A,PT Onko Prima Sintetis,Albunate,10,2988114,2026-08-01,INV-0000009,2026-08-01,e-Katalog
+PO-0000277,RS-G,PT Farma Nusantara Sintetis,Plasbumin-25,4,1556866,2026-08-29,INV-0000277,2026-08-29,e-Katalog
+PO-0000395,RS-J,PT Alkes Mandiri Sintetis,IV CATHETER 22G,4,14649,2026-08-27,INV-0000395,2026-08-27,e-Katalog
+PO-0000288,RS-G,PT Distribusi Medika Sintetis,Cisplatin 50 mg Injeksi,3,401834,2026-08-28,INV-0000288,2026-08-28,e-Katalog
+PO-0000448,RS-L,PT Onko Prima Sintetis,Otsu-RL,22,12768,2026-08-28,INV-0000448,2026-09-13,e-Katalog
+PO-0000021,RS-A,PT Alkes Mandiri Sintetis,Prolene Mesh,2,1192727,2026-08-01,INV-0000021,2026-08-13,e-Katalog
+PO-0000084,RS-B,PT Farma Nusantara Sintetis,Kemoplat,3,446847,2026-08-27,INV-0000084,2026-08-27,e-Katalog
+PO-0000207,RS-E,PT Onko Prima Sintetis,Terumo IV Cath,8,13999,2026-08-01,INV-0000207,2026-08-01,e-Katalog
+PO-0000383,RS-I,PT Onko Prima Sintetis,DECAPRES,339,4476,2026-08-29,INV-0000383,2026-08-30,e-Katalog
+PO-0000439,RS-K,PT Onko Prima Sintetis,Clopidogrel 75 mg Tablet,187,3102,2026-07-30,INV-0000439,2026-07-30,e-Katalog
+PO-0000362,RS-I,PT Alkes Mandiri Sintetis,Normal Saline,51,13261,2026-07-30,INV-0000362,2026-07-31,e-Katalog
+PO-0000266,RS-F,PT Alkes Mandiri Sintetis,Candesartan 8 mg Tablet,392,4420,2026-08-28,INV-0000266,2026-09-09,e-Katalog
+PO-0000163,RS-D,Distributor Lokal Sintetis,Absorbable Suture 2-0,5,89711,2026-09-24,INV-0000163,2026-09-24,Non e-Katalog
+PO-0000030,RS-A,PT Distribusi Medika Sintetis,Trastuzumab 440,5,13022424,2026-08-28,INV-0000030,2026-08-28,e-Katalog
+PO-0000210,RS-E,PT Onko Prima Sintetis,Prolene Mesh,2,1212366,2026-08-01,INV-0000210,2026-08-02,e-Katalog
+PO-0000054,RS-B,Distributor Lokal Sintetis,Ceftriaxone Inj,61,35603,2026-08-29,INV-0000054,2026-08-30,Non e-Katalog
+PO-0000387,RS-I,PT Onko Prima Sintetis,Clopidogrel 75 mg Tablet,32,3172,2026-09-25,INV-0000387,2026-09-25,e-Katalog
+PO-0000189,RS-D,PT Distribusi Medika Sintetis,Glimepiride 2 mg Tablet,258,1727,2026-07-30,INV-0000189,2026-07-30,e-Katalog
+PO-0000370,RS-I,PT Distribusi Medika Sintetis,Paraplatin,3,1441114,2026-07-31,INV-0000370,2026-08-14,e-Katalog
+PO-0000240,RS-F,PT Onko Prima Sintetis,Merem,42,298715,2026-08-01,INV-0000240,2026-08-02,e-Katalog
+PO-0000346,RS-I,PT Alkes Mandiri Sintetis,Ceftriaxone Inj,26,40312,2026-08-01,INV-0000346,2026-08-01,e-Katalog
+PO-0000093,RS-B,PT Farma Nusantara Sintetis,Amlodipine 10 mg Tablet,60,1316,2026-09-25,INV-0000093,2026-09-25,e-Katalog
+PO-0000222,RS-E,PT Distribusi Medika Sintetis,Metformin 500 mg Tablet,93,877,2026-09-26,INV-0000222,2026-09-26,e-Katalog
+PO-0000211,RS-E,PT Distribusi Medika Sintetis,Mesh Hernia 15x15 cm,2,1269771,2026-08-27,INV-0000211,2026-08-27,e-Katalog
+PO-0000406,RS-J,PT Distribusi Medika Sintetis,Zocor,63,1172,2026-07-30,INV-0000406,2026-07-31,e-Katalog
+PO-0000331,RS-H,PT Onko Prima Sintetis,Amlodipine 10 mg Tablet,339,1474,2026-07-31,INV-0000331,2026-08-01,e-Katalog
+PO-0000433,RS-K,PT Alkes Mandiri Sintetis,Simvastatin 20 mg Tablet,174,1120,2026-07-31,INV-0000433,2026-08-01,e-Katalog
+PO-0000247,RS-F,PT Onko Prima Sintetis,"Natrium Klorida 0,9% Infus 500 mL",96,13189,2026-07-30,INV-0000247,2026-07-31,e-Katalog
+PO-0000405,RS-J,PT Onko Prima Sintetis,TENSIVASK,32,1388,2026-08-28,INV-0000405,2026-08-29,e-Katalog
+PO-0000451,RS-L,PT Alkes Mandiri Sintetis,Amlodipine 10 mg Tablet,150,1458,2026-08-01,INV-0000451,2026-08-01,e-Katalog
+PO-0000452,RS-L,PT Onko Prima Sintetis,Amlodipine Besylate,343,1429,2026-08-27,INV-0000452,2026-08-27,e-Katalog
+PO-0000109,RS-C,PT Alkes Mandiri Sintetis,Meropenem Inj,17,318306,2026-08-29,INV-0000109,2026-08-29,e-Katalog
+PO-0000363,RS-I,PT Distribusi Medika Sintetis,"Natrium Klorida 0,9% Infus 500 mL",15,12975,2026-08-28,INV-0000363,2026-08-28,e-Katalog
+PO-0000411,RS-J,PT Onko Prima Sintetis,Amaryl,211,1791,2026-09-25,INV-0000411,2026-09-25,e-Katalog
+PO-0000330,RS-H,PT Onko Prima Sintetis,Metformin 500 mg Tablet,29,963,2026-09-25,INV-0000330,2026-09-25,e-Katalog
+PO-0000353,RS-I,PT Distribusi Medika Sintetis,Levofloxacin 750 mg Infus 150 mL,13,197383,2026-08-29,INV-0000353,2026-08-29,e-Katalog
+PO-0000012,RS-A,Distributor Lokal Sintetis,albumin 25% 50ml,4,1653595,2026-08-27,INV-0000012,2026-08-28,Non e-Katalog
+PO-0000336,RS-H,PT Onko Prima Sintetis,Zocor,96,1152,2026-09-26,INV-0000336,2026-09-27,e-Katalog
+PO-0000235,RS-E,PT Distribusi Medika Sintetis,clopidogrel 75 mg tablet,341,3363,2026-07-30,INV-0000235,2026-07-31,e-Katalog
+PO-0000206,RS-E,PT Farma Nusantara Sintetis,Benang Bedah Absorbable 2-0,3,83138,2026-08-29,INV-0000206,2026-08-30,e-Katalog
+PO-0000417,RS-J,PT Alkes Mandiri Sintetis,Plavix,30,3390,2026-09-26,INV-0000417,2026-09-27,e-Katalog
+PO-0000122,RS-C,PT Alkes Mandiri Sintetis,Hernia Mesh 15x15,2,1195551,2026-08-29,INV-0000122,2026-08-30,e-Katalog
+PO-0000215,RS-E,PT Distribusi Medika Sintetis,Ringer Lactate,49,12815,2026-08-27,INV-0000215,2026-08-27,e-Katalog
+PO-0000176,RS-D,PT Onko Prima Sintetis,docefrez,11,2426618,2026-08-01,INV-0000176,2026-08-01,e-Katalog
+PO-0000192,RS-D,PT Distribusi Medika Sintetis,Blopress,290,4810,2026-08-01,INV-0000192,2026-08-01,e-Katalog
+PO-0000190,RS-D,PT Farma Nusantara Sintetis,Amaryl,401,1897,2026-08-28,INV-0000190,2026-08-28,e-Katalog
+PO-0000374,RS-I,PT Onko Prima Sintetis,Amlodipine 10 mg Tablet,227,1329,2026-08-01,INV-0000374,2026-08-02,e-Katalog
+PO-0000224,RS-E,Distributor Lokal Sintetis,Amlodipine 10 mg Tablet,419,1365,2026-08-29,INV-0000224,2026-08-30,Non e-Katalog
+PO-0000302,RS-G,PT Alkes Mandiri Sintetis,Clopidogrel 75 mg Tablet,246,3019,2026-07-30,INV-0000302,2026-07-30,e-Katalog
+PO-0000386,RS-I,Distributor Lokal Sintetis,Clopidogrel 75,699,3273,2026-08-29,INV-0000386,2026-08-29,Non e-Katalog
+PO-0000214,RS-E,PT Distribusi Medika Sintetis,Otsu-RL,40,13480,2026-07-30,INV-0000214,2026-07-30,e-Katalog
+PO-0000034,RS-A,PT Onko Prima Sintetis,Carbosin,2,1318049,2026-08-28,INV-0000034,2026-08-28,e-Katalog
+PO-0000139,RS-C,PT Onko Prima Sintetis,Simvast,271,1144,2026-07-30,INV-0000139,2026-07-31,e-Katalog
+PO-0000173,RS-D,PT Distribusi Medika Sintetis,Ringer Laktat Infus 500 mL,9,13840,2026-09-24,INV-0000173,2026-09-25,e-Katalog
+PO-0000394,RS-J,PT Onko Prima Sintetis,Terumo IV Cath,5,14853,2026-08-01,INV-0000394,2026-08-05,e-Katalog
+PO-0000105,RS-B,PT Alkes Mandiri Sintetis,Clopidogrel 75 mg Tablet,32,3406,2026-09-25,INV-0000105,2026-09-25,e-Katalog
+PO-0000368,RS-I,PT Farma Nusantara Sintetis,Cisplatin 50 mg Injeksi,3,400989,2026-08-29,INV-0000368,2026-08-30,e-Katalog
+PO-0000297,RS-G,PT Farma Nusantara Sintetis,GLIMEPIRIDE 2,125,1905,2026-07-30,INV-0000297,2026-07-30,e-Katalog
+PO-0000436,RS-K,PT Alkes Mandiri Sintetis,Amaryl,224,1811,2026-08-27,INV-0000436,2026-08-27,e-Katalog
+PO-0000123,RS-C,Distributor Lokal Sintetis,Otsu-NS,73,11771,2026-07-30,INV-0000123,2026-07-30,Non e-Katalog
+PO-0000443,RS-L,PT Onko Prima Sintetis,Ceftriaxone 1 g Injeksi,3,38248,2026-09-25,INV-0000443,2026-09-26,e-Katalog
+PO-0000049,RS-A,PT Farma Nusantara Sintetis,candesartan 8 mg tablet,93,4373,2026-09-25,INV-0000049,2026-09-25,e-Katalog
+PO-0000073,RS-B,PT Alkes Mandiri Sintetis,Parietex,7,1132542,2026-08-01,INV-0000073,2026-08-02,e-Katalog
+PO-0000071,RS-B,PT Farma Nusantara Sintetis,IV Catheter 22G,5,14418,2026-08-29,INV-0000071,2026-08-30,e-Katalog
+PO-0000389,RS-J,PT Onko Prima Sintetis,Terfacef,32,36217,2026-08-28,INV-0000389,2026-08-29,e-Katalog
+PO-0000081,RS-B,PT Alkes Mandiri Sintetis,Paxus,6,1777758,2026-08-27,INV-0000081,2026-08-28,e-Katalog
+PO-0000062,RS-B,PT Farma Nusantara Sintetis,Albunate,14,2892542,2026-08-01,INV-0000062,2026-08-01,e-Katalog
+PO-0000134,RS-C,PT Distribusi Medika Sintetis,Glucophage,663,921,2026-08-27,INV-0000134,2026-08-28,e-Katalog
+PO-0000271,RS-G,PT Farma Nusantara Sintetis,Terfacef,18,39802,2026-08-28,INV-0000271,2026-08-29,e-Katalog
+PO-0000096,RS-B,PT Farma Nusantara Sintetis,Simvastatin 20,305,1162,2026-09-26,INV-0000096,2026-09-26,e-Katalog
+PO-0000088,RS-B,PT Onko Prima Sintetis,Metformin 500 mg Tablet,261,879,2026-08-01,INV-0000088,2026-08-02,e-Katalog
+PO-0000199,RS-E,PT Onko Prima Sintetis,Meropenem Inj,11,303850,2026-08-01,INV-0000199,2026-08-01,e-Katalog
+PO-0000340,RS-H,PT Distribusi Medika Sintetis,Decapres,61,4625,2026-08-01,INV-0000340,2026-08-01,e-Katalog
+PO-0000409,RS-J,PT Onko Prima Sintetis,GLIMEPIRIDE 2,379,1781,2026-07-31,INV-0000409,2026-08-01,e-Katalog
+PO-0000164,RS-D,PT Onko Prima Sintetis,Intorcan,4,14300,2026-07-31,INV-0000164,2026-08-16,e-Katalog
+PO-0000263,RS-F,PT Farma Nusantara Sintetis,GLIMEPIRIDE 2 MG TABLET,568,1835,2026-08-27,INV-0000263,2026-09-07,e-Katalog
+PO-0000218,RS-E,PT Farma Nusantara Sintetis,cisplatin 50mg,4,420381,2026-08-28,INV-0000218,2026-08-28,e-Katalog
+PO-0000453,RS-L,PT Onko Prima Sintetis,Simvastatin 20,181,1072,2026-07-31,INV-0000453,2026-07-31,e-Katalog
+PO-0000039,RS-A,PT Distribusi Medika Sintetis,Norvask,1104,1384,2026-08-29,INV-0000039,2026-08-29,e-Katalog
+PO-0000241,RS-F,PT Farma Nusantara Sintetis,Meropenem Inj,17,305578,2026-08-29,INV-0000241,2026-08-30,e-Katalog
+PO-0000249,RS-F,PT Alkes Mandiri Sintetis,Otsu-RL,27,13940,2026-07-31,INV-0000249,2026-08-01,e-Katalog
+PO-0000143,RS-C,PT Onko Prima Sintetis,Metrix,576,1884,2026-08-29,INV-0000143,2026-08-29,e-Katalog
+PO-0000094,RS-B,PT Distribusi Medika Sintetis,Simvastatin 20,91,1132,2026-08-01,INV-0000094,2026-08-01,e-Katalog
+PO-0000194,RS-D,PT Alkes Mandiri Sintetis,Plavix,393,3099,2026-07-31,INV-0000194,2026-08-01,e-Katalog
+PO-0000191,RS-D,PT Farma Nusantara Sintetis,Metrix,102,1828,2026-09-25,INV-0000191,2026-09-25,e-Katalog
+PO-0000128,RS-C,PT Farma Nusantara Sintetis,Taxol,7,1766208,2026-07-31,INV-0000128,2026-07-31,e-Katalog
+PO-0000075,RS-B,PT Farma Nusantara Sintetis,Normal Saline,77,11843,2026-08-01,INV-0000075,2026-08-02,e-Katalog
+PO-0000236,RS-E,PT Onko Prima Sintetis,Plavix,753,3338,2026-08-28,INV-0000236,2026-08-29,e-Katalog
+PO-0000149,RS-C,PT Alkes Mandiri Sintetis,Plavix,355,3077,2026-08-29,INV-0000149,2026-08-29,e-Katalog
+PO-0000181,RS-D,PT Alkes Mandiri Sintetis,Glucotika,765,924,2026-08-29,INV-0000181,2026-09-02,e-Katalog
+PO-0000323,RS-H,PT Distribusi Medika Sintetis,Ringer Laktat Infus 500 mL,13,13592,2026-09-25,INV-0000323,2026-09-27,e-Katalog
+PO-0000193,RS-D,PT Onko Prima Sintetis,Decapres,515,4545,2026-08-27,INV-0000193,2026-08-28,e-Katalog
+PO-0000300,RS-G,PT Distribusi Medika Sintetis,Decapres,458,4357,2026-08-27,INV-0000300,2026-08-27,e-Katalog
+PO-0000117,RS-C,PT Alkes Mandiri Sintetis,Plasbumin-25,7,1653746,2026-08-29,INV-0000117,2026-08-30,e-Katalog
+PO-0000385,RS-I,PT Farma Nusantara Sintetis,PLAVIX,356,2997,2026-08-01,INV-0000385,2026-08-01,e-Katalog
+PO-0000157,RS-D,PT Farma Nusantara Sintetis,Levofloxacin Infus,21,185282,2026-07-30,INV-0000157,2026-07-30,e-Katalog
+PO-0000114,RS-C,PT Onko Prima Sintetis,ALBURX,9,3072520,2026-07-30,INV-0000114,2026-07-31,e-Katalog
+PO-0000365,RS-I,PT Distribusi Medika Sintetis,Otsu-RL,26,14207,2026-08-01,INV-0000365,2026-08-01,e-Katalog
+PO-0000019,RS-A,PT Onko Prima Sintetis,IV Catheter 22G,6,14854,2026-08-29,INV-0000019,2026-09-12,e-Katalog
+PO-0000392,RS-J,Distributor Lokal Sintetis,Benang Bedah Absorbable 2-0,10,86993,2026-08-28,INV-0000392,2026-08-28,Non e-Katalog
+PO-0000317,RS-H,PT Distribusi Medika Sintetis,IV Cath 22G,2,13165,2026-08-27,INV-0000317,2026-08-28,e-Katalog
+PO-0000070,RS-B,PT Onko Prima Sintetis,introcan,5,14814,2026-07-31,INV-0000070,2026-07-31,e-Katalog
+PO-0000203,RS-E,PT Distribusi Medika Sintetis,Albunate,15,2908539,2026-08-01,INV-0000203,2026-08-02,e-Katalog
+PO-0000158,RS-D,PT Farma Nusantara Sintetis,Levofolxacin 750 mg Infus 150 mL,22,180214,2026-08-27,INV-0000158,2026-09-09,e-Katalog
+PO-0000402,RS-J,PT Farma Nusantara Sintetis,Glucophage,148,879,2026-08-28,INV-0000402,2026-08-29,e-Katalog
+PO-0000185,RS-D,PT Onko Prima Sintetis,Norvask,60,1313,2026-09-24,INV-0000185,2026-09-24,e-Katalog
+PO-0000208,RS-E,PT Onko Prima Sintetis,Terumo IV Cath,3,14024,2026-08-28,INV-0000208,2026-08-28,e-Katalog
+PO-0000145,RS-C,PT Distribusi Medika Sintetis,Candesartan 8 mg Tablet,393,4647,2026-08-01,INV-0000145,2026-08-02,e-Katalog
+PO-0000080,RS-B,PT Onko Prima Sintetis,Ringer Lactate,10,13128,2026-09-26,INV-0000080,2026-09-27,e-Katalog
+PO-0000061,RS-B,PT Distribusi Medika Sintetis,Levofloxacin 750 mg Infus 150 mL,4,195382,2026-09-25,INV-0000061,2026-09-26,e-Katalog
+PO-0000398,RS-J,PT Distribusi Medika Sintetis,Otsu-NS,19,13336,2026-09-25,INV-0000398,2026-09-25,e-Katalog
+PO-0000130,RS-C,PT Distribusi Medika Sintetis,Docefrez,5,2205019,2026-08-27,INV-0000130,2026-08-27,e-Katalog
+PO-0000153,RS-D,PT Distribusi Medika Sintetis,Ceftriaxone 1 g Injeksi,14,37485,2026-09-24,INV-0000153,2026-09-25,e-Katalog
+PO-0000072,RS-B,PT Alkes Mandiri Sintetis,INTROCAN,4,14970,2026-09-26,INV-0000072,2026-09-26,e-Katalog
+PO-0000270,RS-G,PT Onko Prima Sintetis,Ceftriaxone 1 g Injeksi,20,40497,2026-08-01,INV-0000270,2026-08-01,e-Katalog
+PO-0000367,RS-I,PT Alkes Mandiri Sintetis,Platinol,5,445350,2026-08-01,INV-0000367,2026-08-02,e-Katalog
+PO-0000178,RS-D,PT Farma Nusantara Sintetis,Platinol,6,413894,2026-08-29,INV-0000178,2026-08-30,e-Katalog
+PO-0000287,RS-G,PT Alkes Mandiri Sintetis,Kemoplat,10,424551,2026-07-31,INV-0000287,2026-08-01,e-Katalog
+PO-0000032,RS-A,PT Alkes Mandiri Sintetis,Zirabev,19,3776489,2026-08-29,INV-0000032,2026-08-29,e-Katalog
+PO-0000286,RS-G,PT Distribusi Medika Sintetis,RINGER LAKTAT INFUS 500 ML,8,13788,2026-09-26,INV-0000286,2026-09-27,e-Katalog
+PO-0000175,RS-D,PT Onko Prima Sintetis,Taxol,5,1754534,2026-09-25,INV-0000175,2026-09-25,e-Katalog
+PO-0000328,RS-H,PT Distribusi Medika Sintetis,Glucophage,259,886,2026-07-31,INV-0000328,2026-07-31,e-Katalog
+PO-0000456,RS-L,PT Onko Prima Sintetis,Amaryl,184,1751,2026-08-29,INV-0000456,2026-08-29,e-Katalog
+PO-0000268,RS-F,PT Onko Prima Sintetis,clopidogrel 75 mg tablet,226,3276,2026-08-01,INV-0000268,2026-08-02,e-Katalog
+PO-0000390,RS-J,PT Alkes Mandiri Sintetis,CEFTRIAXONE INJ,18,36203,2026-09-26,INV-0000390,2026-09-26,e-Katalog
+PO-0000015,RS-A,PT Alkes Mandiri Sintetis,Benang Bedah Absorbable 2-0,16,87639,2026-08-01,INV-0000015,2026-08-01,e-Katalog
+PO-0000282,RS-G,Distributor Lokal Sintetis,"Natrium Klorida 0,9% Infus 500 mL",62,12062,2026-08-28,INV-0000282,2026-08-29,Non e-Katalog
+PO-0000308,RS-H,PT Distribusi Medika Sintetis,meropenem 1 g injeksi,19,318984,2026-08-28,INV-0000308,2026-08-28,e-Katalog
+PO-0000429,RS-K,PT Onko Prima Sintetis,Metformin HCl 500,261,908,2026-07-30,INV-0000429,2026-07-30,e-Katalog
+PO-0000137,RS-C,PT Onko Prima Sintetis,Norvask,407,1406,2026-08-27,INV-0000137,2026-08-27,e-Katalog
+PO-0000043,RS-A,PT Onko Prima Sintetis,Simvastatin 20,276,1062,2026-09-26,INV-0000043,2026-09-27,e-Katalog
+PO-0000379,RS-I,PT Onko Prima Sintetis,Simvast,29,1082,2026-09-24,INV-0000379,2026-09-25,e-Katalog
+PO-0000446,RS-L,PT Farma Nusantara Sintetis,NaCl 0.9%,27,11993,2026-08-29,INV-0000446,2026-08-30,e-Katalog
+PO-0000033,RS-A,PT Distribusi Medika Sintetis,Docefrez,3,2288872,2026-08-28,INV-0000033,2026-08-29,e-Katalog
+PO-0000428,RS-K,PT Farma Nusantara Sintetis,Ringer Lactate,27,14299,2026-08-29,INV-0000428,2026-08-30,e-Katalog
+PO-0000384,RS-I,PT Alkes Mandiri Sintetis,Candesartan 8mg,104,4813,2026-09-26,INV-0000384,2026-09-27,e-Katalog
+PO-0000342,RS-H,PT Distribusi Medika Sintetis,Candesartan 8mg,64,4426,2026-09-24,INV-0000342,2026-09-24,e-Katalog
+PO-0000177,RS-D,PT Onko Prima Sintetis,Docetaxel 80mg,7,2245096,2026-08-29,INV-0000177,2026-08-30,e-Katalog
+PO-0000426,RS-K,PT Alkes Mandiri Sintetis,"Natrium Klorida 0,9% Infus 500 mL",16,12876,2026-09-26,INV-0000426,2026-09-26,e-Katalog
+PO-0000237,RS-E,PT Alkes Mandiri Sintetis,Clopidogrel 75 mg Tablet,166,3050,2026-09-24,INV-0000237,2026-09-24,e-Katalog
+PO-0000359,RS-I,PT Farma Nusantara Sintetis,Benang Bedah Absorbable 2-0,5,89681,2026-09-25,INV-0000359,2026-09-26,e-Katalog
+PO-0000339,RS-H,PT Onko Prima Sintetis,Glimepiride 2 mg Tablet,33,1841,2026-09-24,INV-0000339,2026-09-24,e-Katalog
+PO-0000099,RS-B,PT Onko Prima Sintetis,Amaryl,94,1709,2026-09-25,INV-0000099,2026-09-25,e-Katalog
+PO-0000205,RS-E,PT Farma Nusantara Sintetis,Plasbumin-25,9,1669674,2026-08-28,INV-0000205,2026-08-29,e-Katalog
+PO-0000007,RS-A,PT Distribusi Medika Sintetis,Cravit Infus,17,194710,2026-07-30,INV-0000007,2026-07-31,e-Katalog
+PO-0000276,RS-G,Distributor Lokal Sintetis,Human Albumin 25% 50 mL,6,1544006,2026-07-30,INV-0000276,2026-07-31,Non e-Katalog
+PO-0000170,RS-D,PT Farma Nusantara Sintetis,NaCl 0.9%,15,12655,2026-09-24,INV-0000170,2026-09-24,e-Katalog
+PO-0000422,RS-K,PT Distribusi Medika Sintetis,Terumo IV Cath,3,14391,2026-07-30,INV-0000422,2026-07-31,e-Katalog
+PO-0000250,RS-F,PT Alkes Mandiri Sintetis,Ringer Laktat Infus 500 mL,7,13488,2026-08-29,INV-0000250,2026-08-29,e-Katalog
+PO-0000001,RS-A,PT Onko Prima Sintetis,Ceftriaxone Inj,28,38572,2026-08-01,INV-0000001,2026-08-02,e-Katalog
+PO-0000102,RS-B,PT Alkes Mandiri Sintetis,Blopress,62,4504,2026-09-24,INV-0000102,2026-09-25,e-Katalog
+PO-0000430,RS-K,PT Alkes Mandiri Sintetis,Glucotika,212,891,2026-08-28,INV-0000430,2026-08-28,e-Katalog
+PO-0000197,RS-E,PT Distribusi Medika Sintetis,Terfacef,35,39026,2026-08-27,INV-0000197,2026-08-27,e-Katalog
+PO-0000329,RS-H,PT Onko Prima Sintetis,Glucophage,396,924,2026-08-28,INV-0000329,2026-08-28,e-Katalog
+PO-0000216,RS-E,PT Farma Nusantara Sintetis,PACLITAXEL INJ,3,1763873,2026-08-28,INV-0000216,2026-08-28,e-Katalog
+PO-0000404,RS-J,PT Distribusi Medika Sintetis,Amlodipine 10 mg Tablet,34,1322,2026-08-01,INV-0000404,2026-08-01,e-Katalog
+PO-0000450,RS-L,PT Alkes Mandiri Sintetis,Glucophage,256,873,2026-08-27,INV-0000450,2026-08-28,e-Katalog
+PO-0000020,RS-A,PT Farma Nusantara Sintetis,IV Catheter 22G,4,14929,2026-09-25,INV-0000020,2026-10-10,e-Katalog
+PO-0000414,RS-J,PT Farma Nusantara Sintetis,DECAPRES,125,4689,2026-09-26,INV-0000414,2026-09-27,e-Katalog
+PO-0000017,RS-A,PT Farma Nusantara Sintetis,Absorbable Suture 2-0,6,87870,2026-09-25,INV-0000017,2026-09-26,e-Katalog
+PO-0000160,RS-D,PT Onko Prima Sintetis,Albuminar-25,6,1576753,2026-07-31,INV-0000160,2026-07-31,e-Katalog
+PO-0000013,RS-A,PT Farma Nusantara Sintetis,RESOLUTE,5,9747789,2026-07-31,INV-0000013,2026-08-01,e-Katalog
+PO-0000146,RS-C,PT Distribusi Medika Sintetis,BLOPRESS,783,4222,2026-08-28,INV-0000146,2026-08-29,e-Katalog
+PO-0000184,RS-D,PT Farma Nusantara Sintetis,Tensivask,689,1467,2026-08-28,INV-0000184,2026-08-29,e-Katalog
+PO-0000410,RS-J,PT Farma Nusantara Sintetis,Amaryl,507,1712,2026-08-28,INV-0000410,2026-09-17,e-Katalog
+PO-0000460,RS-L,PT Alkes Mandiri Sintetis,Clopidogrel 75 mg Tablet,33,3313,2026-08-27,INV-0000460,2026-08-27,e-Katalog
+PO-0000441,RS-L,PT Onko Prima Sintetis,Terfacef,53,40058,2026-08-01,INV-0000441,2026-08-01,e-Katalog
+PO-0000335,RS-H,PT Onko Prima Sintetis,Simvastatin 20 mg Tablet,731,1098,2026-08-27,INV-0000335,2026-09-10,e-Katalog
+PO-0000424,RS-K,PT Alkes Mandiri Sintetis,"Natrium Klorida 0,9% Infus 500 mL",10,12390,2026-08-01,INV-0000424,2026-08-01,e-Katalog
+PO-0000380,RS-I,PT Alkes Mandiri Sintetis,Metrix,251,1756,2026-07-31,INV-0000380,2026-07-31,e-Katalog
+PO-0000316,RS-H,PT Onko Prima Sintetis,IV Catheter 22G,7,14469,2026-07-31,INV-0000316,2026-08-23,e-Katalog
+PO-0000219,RS-E,PT Distribusi Medika Sintetis,Carboplatin 450 mg Injeksi,2,1304497,2026-08-28,INV-0000219,2026-08-29,e-Katalog
+PO-0000304,RS-G,PT Onko Prima Sintetis,Clopidogrel 75,164,3071,2026-09-26,INV-0000304,2026-09-27,e-Katalog
+PO-0000045,RS-A,PT Farma Nusantara Sintetis,Glimepiride 2,744,1865,2026-08-27,INV-0000045,2026-08-27,e-Katalog
+PO-0000243,RS-F,PT Onko Prima Sintetis,Cravit Infus,16,191731,2026-08-27,INV-0000243,2026-08-28,e-Katalog
+PO-0000337,RS-H,Distributor Lokal Sintetis,Amaryl,160,1874,2026-07-30,INV-0000337,2026-07-30,Non e-Katalog
+PO-0000437,RS-K,PT Alkes Mandiri Sintetis,Glimepiride 2 mg Tablet,97,1770,2026-09-24,INV-0000437,2026-09-25,e-Katalog
+PO-0000018,RS-A,PT Farma Nusantara Sintetis,IV Cath 22G,5,14034,2026-07-30,INV-0000018,2026-07-30,e-Katalog
+PO-0000125,RS-C,PT Farma Nusantara Sintetis,"Natrium Klorida 0,9% Infus 500 mL",18,11908,2026-09-25,INV-0000125,2026-09-26,e-Katalog
+PO-0000244,RS-F,PT Farma Nusantara Sintetis,Plasbumin-25,6,1624618,2026-08-29,INV-0000244,2026-08-29,e-Katalog
+PO-0000132,RS-C,PT Distribusi Medika Sintetis,Cisplatin 50 mg Injeksi,3,396954,2026-08-29,INV-0000132,2026-08-29,e-Katalog
+PO-0000047,RS-A,PT Distribusi Medika Sintetis,Decapres,247,4619,2026-08-01,INV-0000047,2026-08-02,e-Katalog

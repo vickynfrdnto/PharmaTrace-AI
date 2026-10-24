@@ -1,0 +1,5 @@
+Skenario pembanding: 2.000 klaim sintetis dengan 5% label anomali terkendali, termasuk enam kasus unggulan yang sama.
+Seluruh data dibuat secara sintetis untuk demonstrasi; bukan data peserta JKN dan bukan estimasi prevalensi fraud nyata.
+Ekstrak ZIP ini. Di Upload & Audit > Unggah 3 berkas, pilih procurement.csv (Pintu 1), rme.json (Pintu 2), claims.csv (Pintu 3), lalu labels.csv di kolom opsional agar metrik evaluasi dapat dihitung.
+Label hanya untuk evaluasi dan tidak menjadi fitur model. Gunakan akun Supervisor atau Admin.
+Jumlah klaim: 2000; label anomali sintetis: 100; seed: 20261011.

@@ -1,0 +1,90 @@
+@import '@fontsource-variable/onest';
+@import '@fontsource-variable/bricolage-grotesque';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ───────── Token warna (kanal RGB agar dukung alpha) ───────── */
+:root, [data-theme='light'] {
+  --canvas: 241 245 243; --surface: 255 255 255; --sunken: 232 238 235; --line: 214 224 220;
+  --ink: 14 34 36; --muted: 84 104 106; --faint: 131 150 149;
+  --brand: 11 126 96; --onbrand: 255 255 255;
+  --info: 45 104 214; --warn: 178 108 0; --risk: 205 56 46;
+  --side: 10 32 34; --shadow: 12 38 40;
+  color-scheme: light;
+}
+[data-theme='dark'] {
+  --canvas: 8 19 21; --surface: 15 30 33; --sunken: 6 14 16; --line: 34 55 58;
+  --ink: 229 239 237; --muted: 146 167 165; --faint: 98 122 120;
+  --brand: 56 214 164; --onbrand: 5 28 22;
+  --info: 110 172 255; --warn: 255 191 64; --risk: 255 112 98;
+  --side: 6 15 17; --shadow: 0 0 0;
+  color-scheme: dark;
+}
+
+html { font-size: 13px; scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+@media (max-width: 639px) { html { font-size: 14px; } }
+@media (min-width: 1900px) { html { font-size: 14px; } }
+
+body {
+  @apply bg-canvas font-sans text-ink antialiased;
+  font-feature-settings: 'tnum' 0, 'ss01' 1;
+  overscroll-behavior-y: none;
+}
+::selection { background: rgb(var(--brand) / .28); }
+:focus-visible { outline: 2px solid rgb(var(--brand)); outline-offset: 2px; border-radius: 6px; }
+
+/* ───────── Komponen ───────── */
+@layer components {
+  .panel { @apply rounded-2xl bg-surface shadow-lift ring-1 ring-line/80; }
+  .panel-flat { @apply rounded-2xl bg-surface ring-1 ring-line/80; }
+  .well { @apply rounded-xl bg-sunken/70; }
+  .tnum { font-variant-numeric: tabular-nums; }
+  .font-num { @apply font-display tnum tracking-tight; font-variation-settings: 'wdth' 92; }
+
+  .btn { @apply relative inline-flex min-h-[2.15rem] select-none items-center justify-center gap-1.5 whitespace-nowrap rounded-lg px-3.5 text-sm font-semibold transition duration-150 active:translate-y-px active:scale-[.98] disabled:pointer-events-none disabled:opacity-40; }
+  .btn-primary { @apply btn bg-brand text-onbrand shadow-[0_1px_0_rgb(255_255_255/.25)_inset,0_6px_16px_-8px_rgb(var(--brand)/.8)] hover:brightness-110; }
+  .btn-teal { @apply btn bg-brand/12 text-brand ring-1 ring-brand/30 hover:bg-brand/20; }
+  .btn-danger { @apply btn bg-risk text-white hover:brightness-110; }
+  .btn-amber { @apply btn bg-warn/15 text-warn ring-1 ring-warn/35 hover:bg-warn/25; }
+  .btn-ghost { @apply btn bg-surface text-ink ring-1 ring-line hover:bg-sunken; }
+  .btn-sm { @apply !min-h-[1.8rem] !px-2.5 text-xs; }
+
+  .input { @apply w-full rounded-lg bg-sunken/60 px-3 py-[.45rem] text-sm text-ink ring-1 ring-line outline-none transition placeholder:text-faint focus-visible:outline-none focus:bg-surface focus:ring-2 focus:ring-brand/70; }
+  select.input { @apply pr-8; }
+  .chip { @apply inline-flex items-center gap-1 rounded-full px-2.5 py-[.12rem] text-xs font-semibold ring-1 ring-inset; }
+  .chip-ok { @apply bg-brand/10 text-brand ring-brand/25; }
+  .chip-risk { @apply bg-risk/10 text-risk ring-risk/25; }
+  .chip-warn { @apply bg-warn/10 text-warn ring-warn/30; }
+  .chip-info { @apply bg-info/10 text-info ring-info/25; }
+  .chip-mute { @apply bg-sunken text-muted ring-line; }
+
+  .th { @apply px-3 py-2 text-left text-xs font-semibold text-muted; }
+  .td { @apply px-3 py-2 text-sm; }
+}
+
+.scroll-slim { scrollbar-width: thin; scrollbar-color: rgb(var(--faint) / .5) transparent; }
+.scroll-slim::-webkit-scrollbar { width: 8px; height: 8px; }
+.scroll-slim::-webkit-scrollbar-thumb { background: rgb(var(--faint) / .4); border-radius: 8px; }
+.no-scrollbar { scrollbar-width: none; }
+.no-scrollbar::-webkit-scrollbar { display: none; }
+
+/* motif kapsul/pil: butiran halus untuk permukaan gelap */
+.grain {
+  background-image: radial-gradient(rgb(255 255 255 / .06) 1px, transparent 1px);
+  background-size: 14px 14px;
+}
+.skeleton { background: linear-gradient(100deg, rgb(var(--sunken)) 30%, rgb(var(--line) / .7) 50%, rgb(var(--sunken)) 70%); background-size: 200% 100%; @apply animate-shimmer rounded-lg; }
+
+/* grafik */
+.recharts-text { fill: rgb(var(--muted)); font-size: 11px; }
+.recharts-cartesian-grid line { stroke: rgb(var(--line)); }
+.recharts-legend-item-text { color: rgb(var(--muted)) !important; }
+.recharts-tooltip-cursor { fill: rgb(var(--brand) / .06); }
+
+/* hormati preferensi gerak */
+.reduce-motion *, .reduce-motion *::before, .reduce-motion *::after { animation-duration: .001ms !important; animation-iteration-count: 1 !important; transition-duration: .001ms !important; scroll-behavior: auto !important; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* aman area notch + bottom bar */
+.pb-safe { padding-bottom: max(env(safe-area-inset-bottom), .25rem); }
