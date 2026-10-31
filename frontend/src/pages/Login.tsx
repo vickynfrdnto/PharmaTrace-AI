@@ -34,7 +34,7 @@ const ROLE_NOTE: Record<string, string> = {
 }
 
 const INPUT_CLASS =
-  'w-full rounded-xl border border-line bg-surface/50 px-3.5 py-2.5 text-sm text-ink transition-all placeholder:text-muted focus:border-brand focus:bg-background focus:outline-none focus:ring-4 focus:ring-brand/10'
+  'w-full rounded-xl border border-white/20 bg-white/10 px-3.5 py-2.5 text-sm text-ink backdrop-blur-md transition-all placeholder:text-muted focus:border-brand focus:bg-white/20 focus:outline-none focus:ring-4 focus:ring-brand/10'
 
 /* ------------------------------------------------------------------ */
 /* Sub-komponen                                                        */
@@ -120,7 +120,7 @@ function DemoUserButton({
       <button
         disabled={!!busy}
         onClick={onSelect}
-        className="group relative flex w-full items-center gap-3 overflow-hidden rounded-xl border border-line bg-surface/50 p-2.5 text-left transition-all duration-300 hover:border-brand/50 hover:bg-brand/5 hover:shadow-[0_8px_20px_rgb(0,0,0,0.1)] disabled:opacity-60"
+        className="group relative flex w-full items-center gap-3 overflow-hidden rounded-xl border border-white/20 bg-white/10 p-2.5 text-left backdrop-blur-md transition-all duration-300 hover:border-brand/50 hover:bg-brand/10 hover:shadow-[0_8px_20px_rgb(0,0,0,0.1)] disabled:opacity-60"
       >
         <div className="absolute inset-0 bg-gradient-to-r from-brand/0 via-brand/5 to-brand/0 opacity-0 transition-opacity duration-500 group-hover:opacity-100" />
 
@@ -183,13 +183,15 @@ export default function Login() {
   const toggleTheme = () => setTheme(theme === 'dark' ? 'light' : 'dark')
 
   return (
-    <div className="grid min-h-dvh bg-background lg:grid-cols-[1.1fr_1fr] overflow-hidden selection:bg-brand/30">
+    <div className="grid min-h-dvh w-full min-w-0 overflow-hidden bg-background selection:bg-brand/30 lg:grid-cols-[1.1fr_1fr]">
       <BrandPanel />
 
       {/* Form kaca (glassmorphism) */}
-      <div className="relative flex items-center justify-center px-5 py-6 sm:px-8">
-        {/* Glow ambient di belakang form untuk mobile */}
-        <div className="pointer-events-none absolute top-1/2 left-1/2 h-3/4 w-3/4 -translate-x-1/2 -translate-y-1/2 rounded-full bg-brand/20 blur-[120px] lg:hidden" />
+      <div className="relative flex w-full min-w-0 items-center justify-center px-4 py-5 sm:px-8 sm:py-6">
+        {/* Cahaya berwarna di belakang kartu kaca */}
+        <div className="pointer-events-none absolute left-1/2 top-1/2 h-[420px] w-[420px] -translate-x-[85%] -translate-y-[75%] rounded-full bg-emerald-400/30 blur-[90px]" />
+        <div className="pointer-events-none absolute left-1/2 top-1/2 h-[360px] w-[360px] -translate-x-[10%] -translate-y-[10%] rounded-full bg-cyan-400/25 blur-[90px]" />
+        <div className="pointer-events-none absolute left-1/2 top-1/2 h-[240px] w-[240px] -translate-x-[40%] translate-y-[35%] rounded-full bg-lime-300/20 blur-[80px]" />
 
         <button
           className="absolute right-5 top-5 rounded-full border border-white/10 bg-white/5 p-2 text-muted backdrop-blur-md transition-all hover:scale-105 hover:bg-white/10 hover:text-ink focus:outline-none focus:ring-2 focus:ring-brand/50"
@@ -203,7 +205,7 @@ export default function Login() {
           variants={stagger}
           initial={reduced ? false : 'hidden'}
           animate="show"
-          className="relative z-10 w-full max-w-[380px] sm:rounded-2xl sm:border sm:border-white/10 sm:bg-white/5 sm:p-7 sm:shadow-2xl sm:backdrop-blur-2xl"
+          className="relative z-10 w-full min-w-0 max-w-[400px] rounded-3xl border border-white/20 bg-surface/40 p-5 shadow-[inset_0_1px_0_rgba(255,255,255,0.35),0_24px_60px_-20px_rgba(0,0,0,0.35)] ring-1 ring-black/5 backdrop-blur-2xl backdrop-saturate-150 sm:p-7"
         >
           {/* Logo (mobile) */}
           <motion.div variants={rise} className="mb-5 flex items-center gap-3 lg:hidden">

@@ -69,6 +69,21 @@ body {
 .no-scrollbar { scrollbar-width: none; }
 .no-scrollbar::-webkit-scrollbar { display: none; }
 
+/* Sembunyikan indikator scrollbar di layar mobile tanpa mematikan scroll. */
+@media (max-width: 767px) {
+  html, body, * {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  html::-webkit-scrollbar,
+  body::-webkit-scrollbar,
+  *::-webkit-scrollbar {
+    display: none;
+    width: 0;
+    height: 0;
+  }
+}
+
 /* motif kapsul/pil: butiran halus untuk permukaan gelap */
 .grain {
   background-image: radial-gradient(rgb(255 255 255 / .06) 1px, transparent 1px);
